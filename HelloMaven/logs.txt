@@ -1,0 +1,101 @@
+2020-08-11 11:41:04 INFO  Driver:12 - The application has started
+2020-08-11 11:41:04 ERROR Driver:17 - Error hapenyo!!
+2020-08-11 11:41:04 INFO  Driver:19 - The application ends
+2020-08-11 12:11:55 INFO  Driver:12 - The application has started
+2020-08-11 12:11:55 ERROR Driver:17 - Error hapenyo!!
+2020-08-11 12:11:55 INFO  Driver:19 - The application ends
+2020-08-11 12:15:42 INFO  Driver:12 - === The application has started ===
+2020-08-11 12:15:42 ERROR Driver:17 - Error hapenedyo!!
+2020-08-11 12:15:42 INFO  Driver:19 - === The application ends ===
+2020-08-11 15:47:45 INFO  Driver:13 - === The application has started ===
+2020-08-11 15:47:45 DEBUG Driver:17 - Debug Message!
+2020-08-11 15:47:45 INFO  Driver:18 - Info Message!
+2020-08-11 15:47:45 WARN  Driver:19 - Warn Message!
+2020-08-11 15:47:45 ERROR Driver:20 - Error Message!
+2020-08-11 15:47:45 FATAL Driver:21 - Fatal Message!
+2020-08-11 15:47:45 ERROR Driver:26 - Error hapened yo!!!
+2020-08-11 15:47:45 INFO  Driver:29 - === The application ends ===
+2020-08-11 17:48:21 INFO  Driver:13 - === The application has started ===
+2020-08-11 17:48:21 DEBUG Driver:17 - Debug Message!
+2020-08-11 17:48:21 INFO  Driver:18 - Info Message!
+2020-08-11 17:48:21 WARN  Driver:19 - Warn Message!
+2020-08-11 17:48:21 ERROR Driver:20 - Error Message!
+2020-08-11 17:48:21 FATAL Driver:21 - Fatal Message!
+2020-08-11 17:48:21 ERROR Driver:26 - Error hapened yo!!!
+2020-08-11 17:48:21 INFO  Driver:29 - === The application ends ===
+2020-08-11 21:30:59 INFO  Driver:13 - === The application has started ===
+2020-08-11 21:30:59 DEBUG Driver:17 - Debug Message!
+2020-08-11 21:30:59 INFO  Driver:18 - Info Message!
+2020-08-11 21:30:59 WARN  Driver:19 - Warn Message!
+2020-08-11 21:30:59 ERROR Driver:20 - Error Message!
+2020-08-11 21:30:59 FATAL Driver:21 - Fatal Message!
+2020-08-11 21:30:59 ERROR Driver:26 - Error hapened yo!!!
+2020-08-11 21:30:59 INFO  Driver:29 - === The application ends ===
+2020-08-11 21:35:44 INFO  Driver:13 - === The application has started ===
+2020-08-11 21:35:44 DEBUG Driver:17 - Debug Message!
+2020-08-11 21:35:44 INFO  Driver:18 - Info Message!
+2020-08-11 21:35:44 WARN  Driver:19 - Warn Message!
+2020-08-11 21:35:44 ERROR Driver:20 - Error Message!
+2020-08-11 21:35:44 FATAL Driver:21 - Fatal Message!
+2020-08-11 21:35:44 ERROR Driver:26 - Error hapened yo!!!
+2020-08-11 21:35:44 INFO  Driver:29 - === The application ends ===
+2020-08-11 21:48:39 INFO  Driver:13 - === The application has started ===
+2020-08-11 21:48:39 DEBUG Driver:17 - Debug Message!
+2020-08-11 21:48:39 INFO  Driver:18 - Info Message!
+2020-08-11 21:48:39 WARN  Driver:19 - Warn Message!
+2020-08-11 21:48:39 ERROR Driver:20 - Error Message!
+2020-08-11 21:48:39 FATAL Driver:21 - Fatal Message!
+2020-08-11 21:48:39 ERROR Driver:26 - Error hapened yo!!!
+2020-08-11 21:48:39 INFO  Driver:29 - === The application ends ===
+2020-08-12 10:43:20 INFO  Driver:19 - === The application has started ===
+2020-08-12 10:43:20 INFO  AccountService:14 - im in account dao
+2020-08-12 10:43:20 DEBUG Driver:28 - Debug Message!
+2020-08-12 10:43:20 INFO  Driver:29 - Info Message!
+2020-08-12 10:43:20 WARN  Driver:30 - Warn Message!
+2020-08-12 10:43:20 ERROR Driver:31 - Error Message!
+2020-08-12 10:43:20 FATAL Driver:32 - Fatal Message!
+2020-08-12 10:43:20 ERROR Driver:37 - Error hapened yo!!!
+2020-08-12 10:43:20 INFO  Driver:40 - === The application ends ===
+2020-08-12 10:53:45 INFO  Driver:18 - === The application has started ===
+2020-08-12 10:53:45 INFO  AccountService:14 - im in account dao
+2020-08-12 10:53:45 INFO  Driver:23 - Account [balance=1000.0, type=saving]
+2020-08-12 10:53:45 DEBUG Driver:28 - Debug Message!
+2020-08-12 10:53:45 INFO  Driver:29 - Info Message!
+2020-08-12 10:53:45 WARN  Driver:30 - Warn Message!
+2020-08-12 10:53:45 ERROR Driver:31 - Error Message!
+2020-08-12 10:53:45 FATAL Driver:32 - Fatal Message!
+2020-08-12 10:53:45 ERROR Driver:37 - Error hapened yo!!!
+2020-08-12 10:53:45 INFO  Driver:40 - === The application ends ===
+2020-08-12 10:54:51 INFO  Driver:18 - === The application has started ===
+2020-08-12 10:54:51 INFO  AccountService:14 - 1
+2020-08-12 10:54:51 INFO  AccountService:14 - im in account dao
+2020-08-12 10:54:51 INFO  Driver:23 - Account [balance=1000.0, type=saving]
+2020-08-12 10:54:51 DEBUG Driver:28 - Debug Message!
+2020-08-12 10:54:51 INFO  Driver:29 - Info Message!
+2020-08-12 10:54:51 WARN  Driver:30 - Warn Message!
+2020-08-12 10:54:51 ERROR Driver:31 - Error Message!
+2020-08-12 10:54:51 FATAL Driver:32 - Fatal Message!
+2020-08-12 10:54:51 ERROR Driver:37 - Error hapened yo!!!
+2020-08-12 10:54:51 INFO  Driver:40 - === The application ends ===
+2020-08-12 10:56:34 INFO  Driver:18 - === The application has started ===
+2020-08-12 10:56:34 INFO  AccountService:14 - account id = 1
+2020-08-12 10:56:34 INFO  AccountService:14 - id = 1
+2020-08-12 10:56:34 INFO  Driver:23 - Account [balance=1000.0, type=saving]
+2020-08-12 10:56:34 DEBUG Driver:28 - Debug Message!
+2020-08-12 10:56:34 INFO  Driver:29 - Info Message!
+2020-08-12 10:56:34 WARN  Driver:30 - Warn Message!
+2020-08-12 10:56:34 ERROR Driver:31 - Error Message!
+2020-08-12 10:56:34 FATAL Driver:32 - Fatal Message!
+2020-08-12 10:56:34 ERROR Driver:37 - Error hapened yo!!!
+2020-08-12 10:56:34 INFO  Driver:40 - === The application ends ===
+2020-08-12 11:52:08 INFO  Driver:18 - === The application has started ===
+2020-08-12 11:52:08 INFO  AccountService:14 - account id = 1
+2020-08-12 11:52:08 INFO  AccountService:14 - id = 1
+2020-08-12 11:52:08 INFO  Driver:23 - Account [balance=1000.0, type=saving]
+2020-08-12 11:52:08 DEBUG Driver:28 - Debug Message!
+2020-08-12 11:52:08 INFO  Driver:29 - Info Message!
+2020-08-12 11:52:08 WARN  Driver:30 - Warn Message!
+2020-08-12 11:52:08 ERROR Driver:31 - Error Message!
+2020-08-12 11:52:08 FATAL Driver:32 - Fatal Message!
+2020-08-12 11:52:08 ERROR Driver:37 - Error hapened yo!!!
+2020-08-12 11:52:08 INFO  Driver:40 - === The application ends ===
