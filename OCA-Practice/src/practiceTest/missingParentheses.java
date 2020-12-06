@@ -5,7 +5,8 @@ public class missingParentheses {
 	public static void main(String[] args) {
 		
 		
-		String input = "(()()())";
+		//String input = "(()()())";
+		String input = "(()()()";
 		System.out.println(findParenthese(input));
 		
 
